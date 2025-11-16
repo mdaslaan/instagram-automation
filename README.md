@@ -69,12 +69,12 @@ python main/main.py
 
 ```
 automator/
-├── main/
-│   └── main.py              # Main GUI application
-├── appv1.py                 # Version 1 implementation
-├── appv2.py                 # Version 2 implementation
-├── appv3.py                 # Version 3 implementation
-├── appv4.py                 # Version 4 implementation
+├── main.py              # Main GUI application
+├── exps/
+├──── appv1.py                 # Version 1 implementation
+├──── appv2.py                 # Version 2 implementation
+├──── appv3.py                 # Version 3 implementation
+├──── appv4.py                 # Version 4 implementation
 ├── Auto.py                  # Automation utilities
 ├── Automator.py             # Core automation class
 ├── enhanced_instagram_automation.py  # Enhanced Instagram features
@@ -153,5 +153,6 @@ The project has evolved through multiple versions:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Disclaimer
+
 
 This tool is for educational and legitimate business purposes only. Users are responsible for complying with all applicable laws and platform terms of service. The developers are not responsible for any misuse or violations.
