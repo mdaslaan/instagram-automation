@@ -1,0 +1,25 @@
+# Core dependencies for Social Media Content Generator & Instagram Uploader v4
+
+# Data processing
+pandas>=1.5.0
+
+# Web requests and image handling
+requests>=2.28.0
+Pillow>=9.0.0
+
+# AI/ML for content generation
+google-generativeai>=0.3.0
+
+# Browser automation for Instagram uploads
+selenium>=4.15.0
+
+# GUI framework (usually included with Python)
+# tkinter - comes with Python standard library
+
+# Optional: For better browser driver management
+webdriver-manager>=4.0.0
+
+# Development and testing (optional)
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0
